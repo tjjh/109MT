@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# 109年度三年級模擬考
 
-You can use the [editor on GitHub](https://github.com/tjjh/109MT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tjjh/109MT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [第一次模擬考R語言報表](https://github.com/tjjh/109MT/R109a01-ggplotly.RMD.html)
+### [第二次模擬考R語言報表](https://github.com/tjjh/109MT/R109a02-ggplotly.RMD.html)
+### [第二次模擬考進退步R語言報表](https://github.com/tjjh/109MT/R109a01.a02.without.loop-ggplotly.RMD.html)
+### [第三次模擬考R語言報表](https://github.com/tjjh/109MT/R109a03-ggplotly.RMD.html)
+### [第三次模擬考進退步R語言報表](https://github.com/tjjh/109MT/R109a02.a03.without.loop-ggplotly.RMD)
+### [第四次模擬考R語言報表](https://github.com/tjjh/109MT/R109a04-ggplotly.RMD.html)
+### [第四次模擬考進退步R語言報表](https://github.com/tjjh/109MT/R109a03.a04.without.loop-ggplotly.RMD)
+### [四次模擬考R語言報表_個人](https://github.com/tjjh/109MT/)
+### [四次模擬考R語言互動報表_科別](https://tjjh.shinyapps.io/109MTS/)
+### [四次模擬考R語言互動報表_班別](https://tjjh.shinyapps.io/109MTC/)
