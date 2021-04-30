@@ -12,4 +12,7 @@
 ### [B、第二次模擬考進退步R語言輸出結果](https://tjjh.github.io/109MT/R109a01.a02.without.loop-ggplotly.RMD.html) `(圖多慎入!!!)`
 ### [A、第一次模擬考R語言輸出結果](https://tjjh.github.io/109MT/R109a01-ggplotly.RMD.html)
 
+### 箱型圖說明
+<img src="https://tjjh.github.io/109MT/boxplot.png">
+
 ### 過山龍製
