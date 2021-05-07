@@ -14,6 +14,8 @@
 ### [A、第一次模擬考R語言輸出結果](https://tjjh.github.io/109MT/R109a01-ggplotly.RMD.html)
 
 ### 箱形圖說明
-<img src="https://tjjh.github.io/109MT/boxplot.png">
+<img src="https://tjjh.github.io/109MT/001.png">
+
+<img src="https://tjjh.github.io/109MT/002.png">
 
 ### 過山龍製 2021.05.03
